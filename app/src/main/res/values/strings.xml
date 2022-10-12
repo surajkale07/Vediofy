@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vediofy</string>
+    <string name="link"><a href="https://youtu.be/zdO1rqR0q64">Link</a></string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
